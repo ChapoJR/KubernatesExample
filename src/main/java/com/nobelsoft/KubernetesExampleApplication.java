@@ -12,7 +12,7 @@ import java.util.function.Supplier;
 public class KubernetesExampleApplication {
 
     public static void main(String[] args) {
-        System.out.println("Prueba");
+        System.out.println("Prueba 2");
         SpringApplication.run(KubernetesExampleApplication.class, args);
     }
 }
